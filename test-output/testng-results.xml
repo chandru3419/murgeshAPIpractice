@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1277" started-at="2022-04-25T13:14:01Z" finished-at="2022-04-25T13:14:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1277" started-at="2022-04-25T13:14:01Z" finished-at="2022-04-25T13:14:03Z">
+      <class name="crudOopeTest.UpdateProjectBDD">
+        <test-method status="PASS" signature="updateProj()[pri:0, instance:crudOopeTest.UpdateProjectBDD@cc285f4]" name="updateProj" duration-ms="1265" started-at="2022-04-25T18:44:02Z" finished-at="2022-04-25T18:44:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateProj -->
+      </class> <!-- crudOopeTest.UpdateProjectBDD -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
